@@ -22,6 +22,10 @@ This project generates a 2×2 grid of mathematical plots using customized functi
 python styled_dashboard.py
 ```
 
+## 📷 Output Preview
+![Styled Function Plot Dashboard Output](styled_dashboard.png)
+
+
 ## 📦 Requirements
 - Python 3.x
 - `matplotlib`
